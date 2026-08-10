@@ -60,3 +60,15 @@ footer{background-color: #2F4434; color: #F5F1E8; padding: 40px 10%;}
 footer h3, footer h4{color: #F5F1E8;}
 
 footer a{color: #A8B5A0;}
+
+
+.about-page{background-color: #F5F1E8; padding: 80px 10%; min-height: 70vh;}
+
+.about-page .text-center p:first-child{ color #7A5C45; font-weight: bold; letter-spacing: 2px;}
+
+.about-page h1{color: #2F4434; margin-bottom: 25px;}
+
+.about-page .text-center p{max-width: 750px; margin-left: auto; margin-right: auto; line-height: 1.7;}
+
+.about-section{background-color: #E6DED1; max-width: 900px; margin: 40px auto; padding: 40px; border-radius: 10px;}
+
