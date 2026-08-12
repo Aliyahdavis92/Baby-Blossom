@@ -64,7 +64,7 @@ footer a{color: #A8B5A0;}
 
 .about-page{background-color: #F5F1E8; padding: 80px 10%; min-height: 70vh;}
 
-.about-page .text-center p:first-child{ color #7A5C45; font-weight: bold; letter-spacing: 2px;}
+.about-page .text-center p:first-child{ color: #7A5C45; font-weight: bold; letter-spacing: 2px;}
 
 .about-page h1{color: #2F4434; margin-bottom: 25px;}
 
@@ -72,3 +72,8 @@ footer a{color: #A8B5A0;}
 
 .about-section{background-color: #E6DED1; max-width: 900px; margin: 40px auto; padding: 40px; border-radius: 10px;}
 
+.about-section h2{color: #3F5A45; margin-bottom: 20px;}
+
+.about-section p{color: #3E342B; line-height: 1.7;}
+
+.about-button{text-align: center; margin-top: 50px;}
