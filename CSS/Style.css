@@ -77,3 +77,25 @@ footer a{color: #A8B5A0;}
 .about-section p{color: #3E342B; line-height: 1.7;}
 
 .about-button{text-align: center; margin-top: 50px;}
+
+.services-page{background-color: #F5F1E8; padding: 80px 0; min-height: 70vh;}
+
+.services-label{color: #7A5C45; font-weight: bold; letter-spacing: 2px;}
+
+.services-page h1{color: #2F4434; margin-bottom: 20px;}
+
+.services-intro{max-width: 750px; margin: 0 auto; line-height: 1.7;}
+
+.service-card{background-color: #E6DED1; padding: 35px; height: 100%; border-radius: 10px;}
+
+.service-card h2{color: #3F5A45; margin-bottom: 20px;}
+
+.service-card p{color: #3E342B; line-height: 1.7;}
+
+.aditional-services{max-width: 800px; margin: 70px auto 40px;}
+
+.additional-services h2{ color: #2F4434; margin-bottom: 20px;}
+
+.aditional-services p{line-height: 1.7;}
+
+.services-button{margin-top: 40px;}
