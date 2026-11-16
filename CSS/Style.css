@@ -99,3 +99,20 @@ footer a{color: #A8B5A0;}
 .aditional-services p{line-height: 1.7;}
 
 .services-button{margin-top: 40px;}
+
+.contact-page{background-color: #F5F1E8; padding: 80px 0; min-height: 70vh;}
+
+.contact-label{color: #7A5C45; font-weight: bold; letter-spacing: 2px;}
+
+.contact-page h1{color: #2F4434; margin-bottom: 20px;}
+
+.contact-intro{max-width: 700px; margin: 0 auto; line-height: 1.7;}
+
+.contact-form{background-color: #E6DED1; max-width: 750px; margin: 0 auto; padding: 40px; border-radius: 10px;}
+
+.contact-form .form-label{color: #3F5A45; font-weight: bold;}
+
+.contact-form .form-control{border: 1px solid #A8B5A0;}
+
+.contact-form .form-control:focus{ border-color: #3F5A45; box-shadow: 0 0 0 0.2rem rgba(63, 90, 69, 0.15);}
+
